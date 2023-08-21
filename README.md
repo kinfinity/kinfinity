@@ -39,9 +39,8 @@ If you're as captivated by the potential of blockchain and Ethereum, and you're 
 [![Dev.to](https://img.shields.io/badge/dev.to-kinfinity-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/kinfinity)](https://dev.to/kinfinity)
 
 ### Languages and Tools:
-
 <a href="https://aws.amazon.com" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS">
 </a>
 <a href="https://azure.microsoft.com/en-in/" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure">
@@ -50,25 +49,25 @@ If you're as captivated by the potential of blockchain and Ethereum, and you're 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash">
 </a>
 <a href="https://www.w3schools.com/cpp/" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
+  <img src="https://www.vectorlogo.zone/logos/cpp/cpp-icon.svg" alt="C++">
 </a>
 <a href="https://www.w3schools.com/cs/" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
+  <img src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg" alt="C#">
 </a>
 <a href="https://www.docker.com/" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker">
 </a>
 <a href="https://www.elastic.co" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch">
 </a>
 <a href="https://expressjs.com" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js">
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js">
 </a>
 <a href="https://git-scm.com/" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
 </a>
 <a href="https://golang.org" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go">
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go">
 </a>
 <a href="https://grafana.com" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana">
@@ -77,10 +76,10 @@ If you're as captivated by the potential of blockchain and Ethereum, and you're 
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL">
 </a>
 <a href="https://www.java.com" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript">
 </a>
 <a href="https://www.jenkins.io" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins">
@@ -98,49 +97,49 @@ If you're as captivated by the potential of blockchain and Ethereum, and you're 
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes">
 </a>
 <a href="https://www.linux.org/" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux">
 </a>
 <a href="https://mochajs.org" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
   <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha">
 </a>
 <a href="https://www.mongodb.com/" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB">
 </a>
 <a href="https://www.mysql.com/" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL">
 </a>
 <a href="https://nestjs.com/" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="Nest.js">
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nest.js">
 </a>
 <a href="https://www.nginx.com" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX">
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="NGINX">
 </a>
 <a href="https://nodejs.org" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js">
 </a>
 <a href="https://www.oracle.com/" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle">
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle">
 </a>
 <a href="https://www.postgresql.org" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL">
 </a>
 <a href="https://postman.com" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-ar21.svg" alt="Postman">
 </a>
 <a href="https://www.python.org" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python">
 </a>
 <a href="https://www.rabbitmq.com" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ">
 </a>
 <a href="https://redis.io" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis">
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis">
 </a>
 <a href="https://www.sqlite.org/" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite">
 </a>
 <a href="https://www.typescriptlang.org/" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript">
 </a>
 <a href="https://www.vagrantup.com/" style="display: inline-block; width: 50px; height: 50px; overflow: hidden;">
   <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="Vagrant">
