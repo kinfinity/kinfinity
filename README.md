@@ -2,10 +2,6 @@
 
 ### 💻🛠️***Software Engineer/ Platform & Cloud Engineer*** 🚀
 
-![kinfinity](https://komarev.com/ghpvc/?username=kinfinity&label=Profile%20views&color=0e75b6&style=flat)
-
-[![kinfinity](https://github-profile-trophy.vercel.app/?username=kinfinity)](https://github.com/ryo-ma/github-profile-trophy)
-
 📝 I am a passionate Software & Platform/Cloud Engineer with a fascination for automation, the world of Blockchain, Ethereum, and distributed systems. I regularly write articles on automation, blockchain, distributed systems 🚀
 
 💻 My Journey:
@@ -152,18 +148,15 @@ If you're as captivated by the potential of blockchain and Ethereum, and you're 
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="kinfinity" width="300" height="100">
 </a>
 
-### Stats:
+### 📊 GitHub Stats:
 
 <div style="display: flex; width: auto; justify-content: space-between;">
   <a href="https://github.com/kinfinity" style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kinfinity&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="600">
+    <img src="https://github-readme-stats.vercel.app/api?username=kinfinity&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" width="600">
   </a>
   
   <a href="https://github.com/kinfinity" style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kinfinity&show_icons=true&locale=en" alt="GitHub Stats" width="600">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinfinity&theme=dark&hide_border=false" alt="GitHub Stats" width="600">
   </a>
-  
-  <a href="https://github.com/kinfinity" style="height: 200px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinfinity&" alt="GitHub Streak" width="600">
-  </a>
+
 </div>
