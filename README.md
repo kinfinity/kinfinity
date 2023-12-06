@@ -1,23 +1,20 @@
-# Hi 👋, I'm Egbewatt M. Kokou ✨💫🦋
+# Egbewatt M. Kokou ✨💫🦋
 
 ### 💻🛠️***Software Engineer/ Platform & Cloud Engineer*** 🚀
 
-📝 I am a passionate Software & Platform/Cloud Engineer with a fascination for automation, the world of Blockchain, Ethereum, and distributed systems. I regularly write articles on automation, blockchain, distributed systems 🚀
-
-💻 My Journey:
-With a background in Computer Engineering and a knack for problem-solving, I've delved deep into the realm of software engineering and cloud solutions. I've spent years honing my skills in designing, building, and optimizing complex systems that leverage the power of distributed computing.
+📝 I am a passionate Software and Platform/Cloud Engineer with a fascination for automation, the world of Blockchain, and distributed systems. I regularly write articles on automation, blockchain, and distributed systems 🚀
 
 🔗 Embracing Blockchain and Ethereum:
 What truly ignites my curiosity is the groundbreaking potential of blockchain technology. From its decentralized nature to its cryptographic security, I find the architecture of blockchain mesmerizing. My focus on Ethereum allows me to explore smart contracts, decentralized applications (DApps), and the innovative possibilities they bring to various industries.
 
-☁️ Bridging the Gap with Cloud:
+☁️ Bridging the Gap with the Cloud:
 While blockchain technology redefines decentralization, I believe that marrying it with the limitless capabilities of cloud computing can lead to astonishing advancements. I'm deeply interested in architecting cloud solutions that seamlessly integrate with blockchain networks, enhancing their scalability, accessibility, and overall utility.
 
 🌐 Continuous Learning and Collaboration:
 In this rapidly evolving tech landscape, I'm a fervent advocate of lifelong learning. My journey involves staying up-to-date with the latest developments in the blockchain and cloud domains. I'm excited about sharing my insights, discoveries, and hands-on experiences through articles, tutorials, and discussions on platforms like dev.to.
 
 📈 Let's Connect:
-If you're as captivated by the potential of blockchain and Ethereum, and you're enthusiastic about exploring the synergy between distributed systems and cloud solutions, I'd love to connect! Feel free to dive into my articles, join the conversations, and let's embark on this technological odyssey together.
+If you're captivated by the potential of blockchain, and you're enthusiastic about exploring the synergy between distributed systems and cloud solutions, I'd love to connect! Feel free to dive into my articles, join the conversations, and let's embark on this technological odyssey together.
 
 📄 my experiences [Egbewatt Kokou - Resume](https://infinintyworld.notion.site/Egbewatt-Kokou-Resume-089feb9f4ab7434589ced391a794e028?pvs=4)
 
