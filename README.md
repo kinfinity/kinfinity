@@ -1,6 +1,4 @@
-# Egbewatt M. Kokou ✨💫🦋
-
-### 💻🛠️***Software Engineer/ Platform & Cloud Engineer*** 🚀
+## Egbewatt M. Kokou ✨💫🦋 - 💻🛠️***Software/Platform & Cloud Engineer*** 🚀
 
 📝 I am a passionate Software and Platform/Cloud Engineer with a fascination for automation, the world of Blockchain, and distributed systems. I regularly write articles on automation, blockchain, and distributed systems 🚀
 
@@ -9,12 +7,6 @@ What truly ignites my curiosity is the groundbreaking potential of blockchain te
 
 ☁️ Bridging the Gap with the Cloud:
 While blockchain technology redefines decentralization, I believe that marrying it with the limitless capabilities of cloud computing can lead to astonishing advancements. I'm deeply interested in architecting cloud solutions that seamlessly integrate with blockchain networks, enhancing their scalability, accessibility, and overall utility.
-
-🌐 Continuous Learning and Collaboration:
-In this rapidly evolving tech landscape, I'm a fervent advocate of lifelong learning. My journey involves staying up-to-date with the latest developments in the blockchain and cloud domains. I'm excited about sharing my insights, discoveries, and hands-on experiences through articles, tutorials, and discussions on platforms like dev.to.
-
-📈 Let's Connect:
-If you're captivated by the potential of blockchain, and you're enthusiastic about exploring the synergy between distributed systems and cloud solutions, I'd love to connect! Feel free to dive into my articles, join the conversations, and let's embark on this technological odyssey together.
 
 📄 my experiences [Egbewatt Kokou - Resume](https://infinintyworld.notion.site/Egbewatt-Kokou-Resume-089feb9f4ab7434589ced391a794e028?pvs=4)
 
