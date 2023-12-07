@@ -1,4 +1,5 @@
-## Egbewatt M. Kokou ✨💫🦋 - 💻🛠️***Software/Platform & Cloud Engineer*** 🚀
+## Egbewatt M. Kokou ✨💫🦋 
+💻🛠️***Software/Platform & Cloud Engineer*** 🚀
 
 📝 I am a passionate Software and Platform/Cloud Engineer with a fascination for automation, the world of Blockchain, and distributed systems. I regularly write articles on automation, blockchain, and distributed systems 🚀
 
