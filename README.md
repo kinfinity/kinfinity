@@ -138,15 +138,3 @@ While blockchain technology redefines decentralization, I believe that marrying 
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="kinfinity" width="300" height="100">
 </a>
 
-### 📊 GitHub Stats:
-
-<div style="display: flex; width: auto; justify-content: space-between;">
-  <a href="https://github.com/kinfinity" style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kinfinity&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" width="600">
-  </a>
-  
-  <a href="https://github.com/kinfinity" style="height: 200px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinfinity&theme=dark&hide_border=false" alt="GitHub Stats" width="600">
-  </a>
-
-</div>
